@@ -1,0 +1,39 @@
+D:\MyPrograms\APOS\APOS\bin\Release\APOS.exe.config
+D:\MyPrograms\APOS\APOS\bin\Release\APOS.exe
+D:\MyPrograms\APOS\APOS\bin\Release\APOS.pdb
+D:\MyPrograms\APOS\APOS\obj\Release\APOS.Form1.resources
+D:\MyPrograms\APOS\APOS\obj\Release\APOS.Properties.Resources.resources
+D:\MyPrograms\APOS\APOS\obj\Release\APOS.csproj.GenerateResource.Cache
+D:\MyPrograms\APOS\APOS\obj\Release\APOS.exe
+D:\MyPrograms\APOS\APOS\obj\Release\APOS.pdb
+D:\MyPrograms\APOS\APOS\obj\Release\APOS.csprojResolveAssemblyReference.cache
+D:\Games\APOS\APOS\bin\Release\APOS.exe.config
+D:\Games\APOS\APOS\obj\Release\APOS.exe
+D:\Games\APOS\APOS\obj\Release\APOS.pdb
+D:\Games\APOS\APOS\bin\Release\APOS.exe
+D:\Games\APOS\APOS\bin\Release\APOS.pdb
+D:\Games\APOS\APOS\obj\Release\APOS.csprojResolveAssemblyReference.cache
+D:\Games\APOS\APOS\obj\Release\APOS.Form1.resources
+D:\Games\APOS\APOS\obj\Release\APOS.Properties.Resources.resources
+D:\Games\APOS\APOS\obj\Release\APOS.csproj.GenerateResource.Cache
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\bin\Release\APOS.exe.config
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Release\APOS.exe
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Release\APOS.pdb
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\bin\Release\APOS.exe
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\bin\Release\APOS.pdb
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Release\APOS.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Release\APOS.Form1.resources
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Release\APOS.Properties.Resources.resources
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Release\APOS.csproj.GenerateResource.Cache
+C:\Users\Дима\Downloads\APOS (4)\Wildfire Project\APOS\bin\Release\APOS.exe.config
+C:\Users\Дима\Downloads\APOS (4)\Wildfire Project\APOS\obj\Release\APOS.exe
+C:\Users\Дима\Downloads\APOS (4)\Wildfire Project\APOS\obj\Release\APOS.pdb
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\bin\Release\APOS.exe.config
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Release\APOS.exe
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Release\APOS.pdb
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\bin\Release\APOS.exe
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\bin\Release\APOS.pdb
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Release\APOS.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Release\APOS.Form1.resources
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Release\APOS.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Release\APOS.csproj.GenerateResource.Cache

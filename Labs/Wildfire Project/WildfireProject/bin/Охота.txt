@@ -1,0 +1,19 @@
+look
+com obj 2
+jumpb 13 
+rleft
+look
+com dist 0
+jumpb 10
+flip
+jump 1
+step
+rright
+jump 1
+look
+com dist 0
+jumpr 18
+step
+jump 1
+eat
+jump 1

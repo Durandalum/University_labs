@@ -1,0 +1,10 @@
+C:\Users\Дима\AppData\Local\Temporary Projects\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab_3_2.Form1.resources
+C:\Users\Дима\AppData\Local\Temporary Projects\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab_3_2.Properties.Resources.resources
+C:\Users\Дима\AppData\Local\Temporary Projects\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab-3-2.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\ATSF_Lab-3-2\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab_3_2.Form1.resources
+G:\Visual Studio 2010\Projects\ATSF_Lab-3-2\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab_3_2.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\ATSF_Lab-3-2\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab-3-2.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\ATSF_Lab-3-2\ATSF_Lab-3-2\bin\Debug\ATSF_Lab-3-2.exe
+G:\Visual Studio 2010\Projects\ATSF_Lab-3-2\ATSF_Lab-3-2\bin\Debug\ATSF_Lab-3-2.pdb
+G:\Visual Studio 2010\Projects\ATSF_Lab-3-2\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab-3-2.exe
+G:\Visual Studio 2010\Projects\ATSF_Lab-3-2\ATSF_Lab-3-2\obj\x86\Debug\ATSF_Lab-3-2.pdb

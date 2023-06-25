@@ -1,0 +1,16 @@
+G:\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\bin\Debug\DB_Lab-4.exe
+G:\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\bin\Debug\DB_Lab-4.pdb
+G:\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab_4.Form1.resources
+G:\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab_4.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab-5.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab-4.exe
+G:\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab-4.pdb
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab-4.exe
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab-4.pdb
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\bin\Debug\DB_Lab-4.exe
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\bin\Debug\DB_Lab-4.pdb
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab_4.Form1.resources
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\DB_Lab_4.Properties.Resources.resources
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Разное\Visual Studio 2010\Projects\DB_Lab-5\DB_Lab-4\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,6 @@
+G:\Visual Studio 2010\Projects\ATSF_Lab-2\ATSF_Lab-2\obj\x86\Debug\ATSF_Lab-2.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\ATSF_Lab-2\ATSF_Lab-2\obj\x86\Debug\ATSF_Lab_2.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\ATSF_Lab-2\ATSF_Lab-2\obj\x86\Debug\ATSF_Lab-2.csproj.GenerateResource.Cache
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-2\ATSF_Lab-2\obj\x86\Debug\ATSF_Lab-2.csprojResolveAssemblyReference.cache
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-2\ATSF_Lab-2\obj\x86\Debug\ATSF_Lab_2.Properties.Resources.resources
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-2\ATSF_Lab-2\obj\x86\Debug\ATSF_Lab-2.csproj.GenerateResource.Cache

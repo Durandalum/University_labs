@@ -1,0 +1,3 @@
+G:\Visual Studio 2010\Projects\Wildfire Project\WildfireProject\bin\Debug\APOS.exe.config
+G:\Visual Studio 2010\Projects\Wildfire Project\WildfireProject\obj\Debug\APOS.exe
+G:\Visual Studio 2010\Projects\Wildfire Project\WildfireProject\obj\Debug\APOS.pdb

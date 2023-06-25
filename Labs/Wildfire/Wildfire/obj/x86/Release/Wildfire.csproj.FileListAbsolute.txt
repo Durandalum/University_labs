@@ -1,0 +1,6 @@
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\Wildfire\bin\Release\Wildfire.exe
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\Wildfire\bin\Release\Wildfire.pdb
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\Wildfire\obj\x86\Release\Wildfire.exe
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\Wildfire\obj\x86\Release\Wildfire.pdb
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\obj\x86\Release\Wildfire.exe
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\obj\x86\Release\Wildfire.pdb

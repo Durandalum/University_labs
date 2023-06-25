@@ -1,0 +1,8 @@
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\bin\Debug\Computer Networks_Lab-5.exe
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\bin\Debug\Computer Networks_Lab-5.pdb
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\obj\x86\Debug\Computer_Networks_Lab_5.ClientServerChat.resources
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\obj\x86\Debug\Computer_Networks_Lab_5.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\obj\x86\Debug\Computer Networks_Lab-5.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\obj\x86\Debug\Computer Networks_Lab-5.exe
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\obj\x86\Debug\Computer Networks_Lab-5.pdb
+G:\Visual Studio 2010\Projects\Computer Networks_Lab-5\Computer Networks_Lab-5\obj\x86\Debug\Computer Networks_Lab-5.csprojResolveAssemblyReference.cache

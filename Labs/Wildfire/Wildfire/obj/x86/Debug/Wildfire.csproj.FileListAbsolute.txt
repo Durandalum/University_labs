@@ -1,0 +1,6 @@
+C:\Users\Дима\AppData\Local\Temporary Projects\Wildfire\bin\Debug\Wildfire.exe
+C:\Users\Дима\AppData\Local\Temporary Projects\Wildfire\bin\Debug\Wildfire.pdb
+C:\Users\Дима\AppData\Local\Temporary Projects\Wildfire\obj\x86\Debug\Wildfire.exe
+C:\Users\Дима\AppData\Local\Temporary Projects\Wildfire\obj\x86\Debug\Wildfire.pdb
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\Wildfire\obj\x86\Debug\Wildfire.exe
+G:\Visual Studio 2010\Projects\Wildfire\Wildfire\Wildfire\obj\x86\Debug\Wildfire.pdb

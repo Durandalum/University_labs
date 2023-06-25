@@ -1,0 +1,16 @@
+C:\Users\Дима\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FSR_Lab_13.exe
+C:\Users\Дима\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FSR_Lab_13.pdb
+C:\Users\Дима\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FSR_Lab_13.Form1.resources
+C:\Users\Дима\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FSR_Lab_13.Properties.Resources.resources
+C:\Users\Дима\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FSR_Lab_13.csproj.GenerateResource.Cache
+C:\Users\Дима\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FSR_Lab_13.exe
+C:\Users\Дима\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FSR_Lab_13.pdb
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FSR_Lab_13.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\obj\x86\Debug\FSR_Lab_13.exe
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\obj\x86\Debug\FSR_Lab_13.pdb
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\bin\Debug\FSR_Lab_13.exe
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\bin\Debug\FSR_Lab_13.pdb
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\obj\x86\Debug\FSR_Lab_13.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\obj\x86\Debug\FSR_Lab_13.Form1.resources
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\obj\x86\Debug\FSR_Lab_13.Properties.Resources.resources
+C:\Users\Дима\Documents\Visual Studio 2010\Projects\FSR_Lab_13\FSR_Lab_13\obj\x86\Debug\FSR_Lab_13.csproj.GenerateResource.Cache

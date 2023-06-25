@@ -1,0 +1,8 @@
+look
+com dist 0
+jumpr 5
+jump 7
+rright
+jump 1
+step
+jump 1

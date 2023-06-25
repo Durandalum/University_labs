@@ -1,0 +1,16 @@
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\bin\Debug\ATSF_Lab-3.exe
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\bin\Debug\ATSF_Lab-3.pdb
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab_3.Form1.resources
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab_3.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.exe
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.pdb
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.exe
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.pdb
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\bin\Debug\ATSF_Lab-3.exe
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\bin\Debug\ATSF_Lab-3.pdb
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.csprojResolveAssemblyReference.cache
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab_3.Form1.resources
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab_3.Properties.Resources.resources
+G:\Разное\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Debug\ATSF_Lab-3.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\bin\Debug\session.mdb
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\bin\Debug\DBProject.exe.config
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\bin\Debug\DBProject.exe
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\bin\Debug\DBProject.pdb
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\obj\x86\Debug\DBProject.MainForm.resources
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\obj\x86\Debug\DBProject.Properties.Resources.resources
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\obj\x86\Debug\DBProject.csproj.GenerateResource.Cache
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\obj\x86\Debug\DBProject.exe
+C:\Users\Андрей\AppData\Local\Temporary Projects\DBProject\obj\x86\Debug\DBProject.pdb
+E:\Work\DBProject\bin\Debug\DBProject.exe.config
+E:\Work\DBProject\obj\x86\Debug\DBProject.exe
+E:\Work\DBProject\obj\x86\Debug\DBProject.pdb
+E:\Work\DBProject\bin\Debug\DBProject.exe
+E:\Work\DBProject\bin\Debug\DBProject.pdb
+E:\Work\DBProject\obj\x86\Debug\DBProject.MainForm.resources
+E:\Work\DBProject\obj\x86\Debug\DBProject.Properties.Resources.resources
+E:\Work\DBProject\obj\x86\Debug\DBProject.csproj.GenerateResource.Cache

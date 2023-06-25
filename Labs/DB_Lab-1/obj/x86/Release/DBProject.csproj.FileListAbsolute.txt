@@ -1,0 +1,38 @@
+E:\Work\DBProject\bin\Release\DBProject.exe.config
+E:\Work\DBProject\bin\Release\DBProject.exe
+E:\Work\DBProject\bin\Release\DBProject.pdb
+E:\Work\DBProject\obj\x86\Release\DBProject.MainForm.resources
+E:\Work\DBProject\obj\x86\Release\DBProject.Properties.Resources.resources
+E:\Work\DBProject\obj\x86\Release\DBProject.csproj.GenerateResource.Cache
+E:\Work\DBProject\obj\x86\Release\DBProject.exe
+E:\Work\DBProject\obj\x86\Release\DBProject.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\bin\Release\DBProject.exe.config
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\obj\x86\Release\DBProject.exe
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\obj\x86\Release\DBProject.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\bin\Release\DBProject.exe
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\bin\Release\DBProject.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\obj\x86\Release\DBProject.MainForm.resources
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\obj\x86\Release\DBProject.Properties.Resources.resources
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь\Мои документы\Downloads\Laby_zip\ООП\5DBProject\obj\x86\Release\GenerateResource.write.1.tlog
+D:\C#\Lab5_OOP\bin\Release\DBProject.exe.config
+D:\C#\Lab5_OOP\obj\x86\Release\DBProject.exe
+D:\C#\Lab5_OOP\obj\x86\Release\DBProject.pdb
+D:\C#\Lab5_OOP\bin\Release\DBProject.exe
+D:\C#\Lab5_OOP\bin\Release\DBProject.pdb
+D:\C#\Lab5_OOP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\C#\Lab5_OOP\obj\x86\Release\DBProject.MainForm.resources
+D:\C#\Lab5_OOP\obj\x86\Release\DBProject.Properties.Resources.resources
+D:\C#\Lab5_OOP\obj\x86\Release\GenerateResource.read.1.tlog
+D:\C#\Lab5_OOP\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\bin\Release\DBProject.exe.config
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\obj\x86\Release\DBProject.exe
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\obj\x86\Release\DBProject.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\bin\Release\DBProject.exe
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\bin\Release\DBProject.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\obj\x86\Release\DBProject.MainForm.resources
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\obj\x86\Release\DBProject.Properties.Resources.resources
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-1\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,1 @@
+SELECT Название FROM [Кафедры] WHERE 

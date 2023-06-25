@@ -1,0 +1,11 @@
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\bin\Release\Coursework_DB.exe
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\bin\Release\Coursework_DB.pdb
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\Coursework_DB.Authorization.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\Coursework_DB.MainProgram.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\Coursework_DB.Properties.Resources.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\Coursework_DB.Registration.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\Coursework_DB.exe
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\Coursework_DB\Coursework_DB\obj\x86\Release\Coursework_DB.pdb

@@ -1,0 +1,6 @@
+Look
+com dist 1
+jumpm 6
+step
+jump 1
+flip

@@ -1,0 +1,10 @@
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\bin\Release\DBProject.exe.config
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\obj\x86\Release\DBProject.exe
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\obj\x86\Release\DBProject.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\bin\Release\DBProject.exe
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\bin\Release\DBProject.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\obj\x86\Release\DBProject.MainForm.resources
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\obj\x86\Release\DBProject.Properties.Resources.resources
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\DB_Lab-3\obj\x86\Release\GenerateResource.write.1.tlog

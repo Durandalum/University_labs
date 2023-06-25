@@ -1,0 +1,7 @@
+App
+com app 25
+jumpr 5
+jump 1
+more_fire
+non
+jump 1

@@ -1,0 +1,50 @@
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.exe
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.pdb
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Authorization.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1_2.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Авторизация.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.exe
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.pdb
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.exe
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.pdb
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.exe
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.pdb
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Authorization.resources
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1_2.resources
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Авторизация.resources
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.csprojResolveAssemblyReference.cache
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.exe
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.pdb
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.exe
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.pdb
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.csprojResolveAssemblyReference.cache
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Authorization.resources
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1_2.resources
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Авторизация.resources
+L:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.csproj.GenerateResource.Cache
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.exe
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\PnD_safety.pdb
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.exe
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\bin\Debug\PnD_safety.pdb
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Authorization.resources
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1_2.resources
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\WindowsFormsApplication1.Авторизация.resources
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Разное\Visual Studio 2010\Projects\PnD_safety\PnD_safety\obj\x86\Debug\GenerateResource.write.1.tlog

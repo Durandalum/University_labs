@@ -1,0 +1,9 @@
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\bin\Debug\DB_Lab_2.exe
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\bin\Debug\DB_Lab_2.pdb
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\obj\x86\Debug\DB_Lab_2.Form1.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\obj\x86\Debug\DB_Lab_2.Properties.Resources.resources
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\obj\x86\Debug\DB_Lab_2.exe
+C:\Documents and Settings\Пользователь\мои документы\visual studio 2010\Projects\DB_Lab_2\DB_Lab_2\obj\x86\Debug\DB_Lab_2.pdb

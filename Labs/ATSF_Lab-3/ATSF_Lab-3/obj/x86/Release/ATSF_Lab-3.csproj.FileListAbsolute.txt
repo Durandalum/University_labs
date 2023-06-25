@@ -1,0 +1,7 @@
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\bin\Release\ATSF_Lab-3.exe
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\bin\Release\ATSF_Lab-3.pdb
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Release\ATSF_Lab_3.Form1.resources
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Release\ATSF_Lab_3.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Release\ATSF_Lab-3.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Release\ATSF_Lab-3.exe
+G:\Visual Studio 2010\Projects\ATSF_Lab-3\ATSF_Lab-3\obj\x86\Release\ATSF_Lab-3.pdb

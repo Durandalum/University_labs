@@ -1,0 +1,48 @@
+D:\MyPrograms\APOS\APOS\bin\Debug\APOS.exe.config
+D:\MyPrograms\APOS\APOS\bin\Debug\APOS.exe
+D:\MyPrograms\APOS\APOS\bin\Debug\APOS.pdb
+D:\MyPrograms\APOS\APOS\obj\Debug\APOS.csprojResolveAssemblyReference.cache
+D:\MyPrograms\APOS\APOS\obj\Debug\APOS.Form1.resources
+D:\MyPrograms\APOS\APOS\obj\Debug\APOS.Properties.Resources.resources
+D:\MyPrograms\APOS\APOS\obj\Debug\APOS.csproj.GenerateResource.Cache
+D:\MyPrograms\APOS\APOS\obj\Debug\APOS.exe
+D:\MyPrograms\APOS\APOS\obj\Debug\APOS.pdb
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\bin\Debug\APOS.exe.config
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\obj\Debug\APOS.exe
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\obj\Debug\APOS.pdb
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\bin\Debug\APOS.exe
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\bin\Debug\APOS.pdb
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\obj\Debug\APOS.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\obj\Debug\APOS.Form1.resources
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\obj\Debug\APOS.Properties.Resources.resources
+C:\Users\Дима\Downloads\APOS (1)\APOS\APOS\obj\Debug\APOS.csproj.GenerateResource.Cache
+D:\Games\APOS\APOS\bin\Debug\APOS.exe.config
+D:\Games\APOS\APOS\obj\Debug\APOS.exe
+D:\Games\APOS\APOS\obj\Debug\APOS.pdb
+D:\Games\APOS\APOS\bin\Debug\APOS.exe
+D:\Games\APOS\APOS\bin\Debug\APOS.pdb
+D:\Games\APOS\APOS\obj\Debug\APOS.csprojResolveAssemblyReference.cache
+D:\Games\APOS\APOS\obj\Debug\APOS.Form1.resources
+D:\Games\APOS\APOS\obj\Debug\APOS.Properties.Resources.resources
+D:\Games\APOS\APOS\obj\Debug\APOS.csproj.GenerateResource.Cache
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\bin\Debug\APOS.exe.config
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Debug\APOS.exe
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Debug\APOS.pdb
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\bin\Debug\APOS.exe
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\bin\Debug\APOS.pdb
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Debug\APOS.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Debug\APOS.Form1.resources
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Debug\APOS.Properties.Resources.resources
+C:\Users\Дима\Downloads\APOS (4)\APOS\APOS\obj\Debug\APOS.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\bin\Debug\APOS.exe.config
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Debug\APOS.exe
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Debug\APOS.pdb
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\bin\Debug\APOS.exe
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\bin\Debug\APOS.pdb
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Debug\APOS.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Debug\APOS.Form1.resources
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Debug\APOS.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\Wildfire Project\APOS\obj\Debug\APOS.csproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects\Wildfire Project\WildfireProject\bin\Debug\APOS.exe.config
+G:\Visual Studio 2010\Projects\Wildfire Project\WildfireProject\obj\Debug\APOS.exe
+G:\Visual Studio 2010\Projects\Wildfire Project\WildfireProject\obj\Debug\APOS.pdb
